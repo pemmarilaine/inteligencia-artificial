@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você começa um novo projeto de vida, o que você gosta de fazer pra poder melhorar cada fez mais",
+        enunciado: "Quando você começa um novo projeto de vida, o que você gosta de fazer para melhorar cada vez mais?",
         alternativas: [
             {
-                texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
+                texto: "Gosto de planejar detalhadamente e saber bem como está a minha saúde fisica antes de começar a fazer alguma coisa.",
                 afirmacao: "<b>Organização</b> é uma característica forte sua, valorizando o planejamento detalhado."
             },
             {
-                texto: "Prefiro começar a codificar logo e ajustar o plano conforme avanço.",
+                texto: "Prefiro começar a fazer exercicios logo e ajustar o plano conforme avanço.",
                 afirmacao: "Você se destaca pela <b>dinamismo</b>, gostando de aprender e ajustar durante o processo."
             }
         ]
