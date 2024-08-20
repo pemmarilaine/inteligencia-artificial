@@ -45,23 +45,23 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual é a sua postura em relação ao aprendizado de novas tecnologias?",
+        enunciado: "Qual é o seu pensamento sobre todos os esportes para a saúde?",
         alternativas: [
             {
-                texto: "Prefiro me aprofundar nas tecnologias que já conheço bem antes de explorar novas.",
+                texto: "Prefiro me aprofundar nas postagens e saber realmente para que serve os espertes.",
                 afirmacao: "<b>Foco</b> é seu ponto forte, preferindo dominar suas ferramentas atuais."
             },
             {
-                texto: "Gosto de experimentar e aprender novas tecnologias constantemente.",
+                texto: "Gosto de experimentar e aprender novas tecnicas para meu funcionamento fisico",
                 afirmacao: "<b>Curiosidade</b> é uma marca sua, sempre em busca de novas ferramentas e técnicas."
             }
         ]
     },
     {
-        enunciado: "Como você prefere trabalhar em um projeto?",
+        enunciado: "Como você prefere fazer algumas coisas de exercício?",
         alternativas: [
             {
-                texto: "Prefiro trabalhar sozinho, tendo total controle sobre o projeto.",
+                texto: "Prefiro fazer coisas no modo sozinho e mais lento ( no meu ritmo).",
                 afirmacao: "<b>Independência</b> é uma preferência sua, gostando de ter controle total sobre seus projetos."
             },
             {
