@@ -9,38 +9,38 @@ const perguntas = [
         enunciado: "Quando você começa um novo projeto de vida, o que você gosta de fazer pra poder melhorar cada fez mais",
         alternativas: [
             {
-                texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
+                texto: "Gosto de planejar detalhadamente antes de começar a por em pratica.",
                 afirmacao: "<b>Organização</b> é uma característica forte sua, valorizando o planejamento detalhado."
             },
             {
-                texto: "Prefiro começar a codificar logo e ajustar o plano conforme avanço.",
+                texto: "Prefiro começar a pensar como vou fazer logo e ajustar o plano conforme avanço.",
                 afirmacao: "Você se destaca pela <b>dinamismo</b>, gostando de aprender e ajustar durante o processo."
             }
         ]
     },
     {
-        enunciado: "Como você lida com problemas ou bugs no seu código?",
+        enunciado: "Como você lida com problemas ou atrasos em sua rotina que é nescessaria?",
         alternativas: [
             {
-                texto: "Gosto de resolver os problemas sozinho, pesquisando e testando diferentes soluções.",
-                afirmacao: "Independência define sua abordagem para resolver problemas, confiando nas suas <b>habilidades de pesquisa</b>."
+                texto: "Gosto de resolver os problemas e tentar nao me atrasar mais para dar tempo de fazer tudo que preciso.",
+                afirmacao: "Independência define sua abordagem para resolver problemas, confiando nas suas <b>habilidades</b>."
             },
             {
-                texto: "Prefiro pedir ajuda a colegas ou em fóruns de programação quando encontro dificuldades.",
-                afirmacao: "Colaboração é essencial para você, apreciando a <b>troca de conhecimento</b> com outros programadores."
+                texto: "Prefiro pedir ajuda para pessoas, para elas não deixar eu me atrasar ou me ajudar a fazer tudo na hora sem deixar para depois.",
+                afirmacao: "Colaboração é essencial para você, apreciando a <b>troca de conhecimento</b> com outros colegas."
             }
         ]
     },
     {
-        enunciado: "Qual é a sua preferência em relação à estética versus funcionalidade em um projeto?",
+        enunciado: "Qual é a sua prefêrencia por esportes para sua saude fisica ?",
         alternativas: [
             {
-                texto: "Acredito que a funcionalidade é mais importante que a estética.",
-                afirmacao: "<b>Pragmatismo</b> é uma característica sua, priorizando a funcionalidade e a eficiência do código."
+                texto: "Acredito que a funcionalidade do esporte é melhor do que os beneficios.",
+                afirmacao: "<b>volei</b> é um esporte que presica de muito esforco fisico e conhecimento sobre ele."
             },
             {
                 texto: "Valorizo muito a estética e gosto de criar interfaces visualmente atraentes.",
-                afirmacao: "<b>Detalhista</b>, você dá muita importância à aparência e à experiência do usuário."
+                afirmacao: "<b>futebol</b>, futebol é um esporte que precisa de mais esforço que todos os outros esportes."
             }
         ]
     },
